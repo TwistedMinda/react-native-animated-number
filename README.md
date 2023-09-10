@@ -30,9 +30,10 @@ interface AnimatedNumberOptions {
 }
 ```
 
+The *Colorized Delta* when value changes can be enabled/disabled on the fly by a `SharedValue`
+
 ## With a graph
 
 It also feels very nice when used along with a graph.
-A nice additional feature is the *colorized delta* compared to the last value (can be disabled on the fly by a `SharedValue`)
 
 ![](https://github.com/TwistedMinda/animated-number/blob/main/graph.gif)
