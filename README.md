@@ -37,3 +37,5 @@ The *Colorized Delta* when value changes can be enabled/disabled on the fly by a
 It also feels very nice when used along with a graph.
 
 ![](https://github.com/TwistedMinda/animated-number/blob/main/graph.gif)
+
+Feel free to create a library for the AnimatedNumber component!
